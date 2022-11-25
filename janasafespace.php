@@ -1,6 +1,6 @@
 <?php
-echo "Schönen guten Hallo";
-$name "Axel Schweiß";
+$name = "Axel Schweiß";
+echo "Schönen guten Hallo ";
 echo "Mein Name ist $name";
 ?>
 
